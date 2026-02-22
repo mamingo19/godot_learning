@@ -4,6 +4,7 @@ const MAX_SPEED = 200
 
 func _ready() -> void:
 	pass
+	
 func _process(delta):
 	var movement_vector = get_movement_vector();
 	var direction = movement_vector.normalized();
