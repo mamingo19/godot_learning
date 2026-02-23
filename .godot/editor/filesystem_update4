@@ -1,9 +1,0 @@
-res://resources/tileset.tres
-res://scenes/basic_enemy/basic_enemy.tscn
-res://scenes/player/player.gd
-res://scenes/basic_enemy/basic_enemy.gd
-res://scenes/main/main.tscn
-res://scenes/player/player.tscn
-res://scenes/game_camera/game_camera.tscn
-res://scenes/ability/sword_ability/sword_ability.tscn
-res://scenes/ability/sword_ability_controller/sword_ability_controller.tscn
